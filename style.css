@@ -105,6 +105,11 @@ input[type=submit]:hover {
     padding: 20px;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 footer {
     font-family: Arial
 }
